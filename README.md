@@ -2,31 +2,28 @@
 End-to-end SaaS Churn Analysis and Retention Strategy using Machine Learning
 # SaaS Churn Prediction and Strategic Retention Framework
 
-## 📊 Project Overview
+## Project Overview
 
 Customer retention is the lifeblood of SaaS businesses. In this real-world project, I build a complete workflow to predict customer churn, analyze its drivers, and translate model results into actionable business decisions—empowering any SaaS team to protect recurring revenue and grow customer loyalty.
 
----
 
-## 🚀 What This Analysis Delivers
+## What This Analysis Delivers
 
 - **Data Storytelling**: Rich segment analysis by region, acquisition channel, and customer tier, identifying who is at risk and why.
 - **Robust Predictive Modeling**: Random Forest and Logistic Regression models tuned for business action, with precision-recall curve for setting real-world risk thresholds.
 - **Retention Strategy**: Concrete recommendations on where to focus customer success and marketing efforts—backed by interpretable model results.
 - **Next Steps for Stakeholders**: Action plan for integrating churn alerts into business processes and maximizing ROI on retention.
 
----
 
-## 📝 Business Context & Rationale
+## Business Context & Rationale
 
 Every SaaS provider faces a core challenge: minimizing churn among valuable subscribers. Losing high-LTV customers is costly, yet targeting retention at low-risk customers wastes effort. This project begins with the real questions that matter to business leaders:
 - Who is most likely to leave, and how do we spot them early?
 - Which customer segments represent the greatest retention opportunity?
 - How can predictive insights be operationalized—turning “churn risk” into efficient action?
 
----
 
-## 📈 Key Analytical Steps
+## Key Analytical Steps
 
 **1. Data Exploration & Cleaning:**
 - Loaded, validated, and cleaned a SaaS dataset, representing thousands of real customer records from diverse regions and marketing channels.
@@ -45,9 +42,8 @@ Every SaaS provider faces a core challenge: minimizing churn among valuable subs
 - Used model predictions—not just historical averages—to flag at-risk regions and channels.
 - Found highest predicted churn in LatAm (44%) and Google Ads (44%), impacting 679 and 1,736 customers, respectively.
 
----
 
-## 📌 Business Insights & Recommendations
+## Business Insights & Recommendations
 
 #### **Who to Target Right Now**
 
@@ -68,14 +64,11 @@ Every SaaS provider faces a core challenge: minimizing churn among valuable subs
 - Integrate churn alerts with NPS surveys and usage analytics for richer insights.
 - Test more advanced models (e.g., XGBoost) with additional behavioral features.
 
----
 
+## Project Value
 
-## 📣 Project Value
-
-This project demonstrates an end-to-end real-world analytics process: from raw data, through modeling, to boardroom-ready insights. It stands out for its focus on operational relevance, interpretability, and human business impact—not just technical prowess. 
+This project demonstrates an end-to-end real-world analytics process: from raw data, through modeling, to boardroom-ready insights. It stands out for its focus on operational relevance, interpretability, and human business impact. 
 
 
 
----
 
